@@ -1,0 +1,23 @@
+[
+    {
+    "employeeNumber": "A01",
+    "firstName": "Person 1",
+    "department": "Business",
+    "workYear": "3 year", 
+    "degree" : "Diploma"      
+},
+{
+    "employeeNumber": "A02",
+    "firstName": "Person 2",
+    "department": "Computing",
+    "workYear": "4 year",
+    "degree" : "Diploma"    
+},
+{
+    "employeeNumber": "A03",
+    "firstName": "Person 3",
+    "department": "Computing",
+    "workYear": "5 year",
+    "degree" : "Bachelor"    
+}
+]
